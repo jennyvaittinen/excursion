@@ -1,0 +1,41 @@
+body, html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    font-size: 1rem;
+    color: aquamarine;
+    margin: 1rem;
+}
+
+header {
+    margin: 1rem;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: larger;
+    margin: 1rem 0;
+}
